@@ -1,7 +1,7 @@
 # Portfolio 📁
 
 ## Demo - Deployed over Github Pages 📝
-https://aadityabhargav18.github.io/weatherapp/
+https://aadityabhargav18.github.io/Portfolio/
 
 ## Tech Stack 💻
 **Client:** HTML, CSS, JS
